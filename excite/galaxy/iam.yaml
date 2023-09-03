@@ -5,3 +5,4 @@ users:
     roles:
       customer_developer:
         - stag
+        - prod
