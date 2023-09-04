@@ -1,0 +1,7 @@
+version: 1.0
+kind: users
+users:
+  - email: mario.rossi@lapizzeriaspryker.eu
+    roles:
+      customer_developer:
+        - dev
