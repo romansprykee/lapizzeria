@@ -4,4 +4,4 @@ users:
   - email: mario.rossi@lapizzeriaspryker.eu
     roles:
       customer_developer:
-        - QA
+        - production
