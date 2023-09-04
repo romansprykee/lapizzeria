@@ -4,5 +4,4 @@ users:
   - email: mario.rossi@lapizzeria.it # email address of an user who wants access
     roles:
       customer_developer:
-        - stag
-        - prod
+        - dev
