@@ -5,3 +5,7 @@ users:
     roles:
       customer_developer:
         - dev
+  - email: maria.bianchi@lapizzeriaspryker.eu
+    roles:
+      customer_developer:
+        - dev
