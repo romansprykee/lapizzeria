@@ -1,0 +1,5 @@
+kind: dns-zones
+version: 1
+dns-zones:
+  - reference: mystore.com
+    dns_managed_by: me
