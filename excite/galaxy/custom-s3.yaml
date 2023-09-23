@@ -17,4 +17,3 @@ service-file-storage:
     engine: s3
     bucket_suffix: "test4-public-dev-davide-custom-s3"
     bucket_type: "public"
-
