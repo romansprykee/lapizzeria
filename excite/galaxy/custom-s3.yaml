@@ -9,3 +9,12 @@ service-file-storage:
     engine: s3
     bucket_suffix: "test3-dev-davide-custom-s3"
     bucket_type: "public"
+  - reference: "davide-custom-s3-test4-private"
+    engine: s3
+    bucket_suffix: "test4-private-dev-davide-custom-s3"
+    bucket_type: "private"
+  - reference: "davide-custom-s3-test4-public"
+    engine: s3
+    bucket_suffix: "test4-public-dev-davide-custom-s3"
+    bucket_type: "public"
+
