@@ -1,3 +1,7 @@
 version: 1.0
 kind: users
-users:            
+users:     
+    - email: maria.bianchi@lapizzeriaspryker.eu     # The user email address - unique identifier                
+      roles:
+        vpn:                      # The name of the role(s)
+          - dev                   # The environment tag(s)   
