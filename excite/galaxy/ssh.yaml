@@ -1,0 +1,9 @@
+version: 1.0
+kind: users
+users:
+    - email: davide.iori@spryker.com     # The user email address - unique identifier
+      ssh_key: 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCrkvyGILb6NLMt2wcLfolF08OMoAgeU0cbkWX0sye6eP76qhxkatsuEQhJkw/EOVO6dgliSZfQLWmFh2iB7R5yOVuaIWQDQaRVLpXCiXGpeUCsLYKxNbaAgZ5yUVNeWr4w/nSJAWPiN/ZVgBwj3FF7zUB2tblhNY4P/FMC5mNOt/BPx6zZZpFe/Do8f4GvHOtHQM3eEfvUYrMARXpkJl198D/FZfM56KvyWg5BzuKP7vH3KG9DJEZVR9JrGsjC0zRwlRQEQLXmSqlucnKUp+AXYcPjPUGWfAc1WrKvL+VqZ9TkgG1kvwC/o4y9KZlv9K0N4x+sB69hfGP/pYDenDur4kdzR4dwZv1+CLxpcLPbW59CYmD2+PaFPjPBzkTjLHNTPW2o0SVsxEC1hiXQdC6fbr0LUzqYFHDZ6VrZWpYW6FT6Bjw9pDm/es6ulcjMqyb+qjbcAJzoDVoQSGU/Dju9Jg+t2ZOUNIj2a6gHFX0Qs4Xuv9hlYTgvyp8CPsyc9J0= azuread\davideiori@SPD4HCLL3
+'  # The user public ssh key                  
+      roles:
+        ssh:                      # The name of the role(s)
+          - dev                   # The environment tag(s)
