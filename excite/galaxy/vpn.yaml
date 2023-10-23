@@ -5,3 +5,8 @@ users:
       roles:
         vpn:                      # The name of the role(s)
           - dev                   # The environment tag(s)   
+    - email: mario.rossi@lapizzeriaspryker.eu     # The user email address - unique identifier                
+      roles:
+        vpn:                      # The name of the role(s)
+          - dev                   # The environment tag(s)  
+    
