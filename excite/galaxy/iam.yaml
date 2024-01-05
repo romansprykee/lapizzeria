@@ -9,3 +9,7 @@ users:
     roles:
       customer_developer:
         - dev
+  - email: olena.krivtsova@spryker.com
+    roles:
+      customer_developer:
+        - dev        
