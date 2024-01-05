@@ -8,8 +8,4 @@ users:
   - email: maria.bianchi@lapizzeriaspryker.eu
     roles:
       customer_developer:
-        - dev
-  - email: olena.krivtsova@spryker.com
-    roles:
-      customer_developer:
-        - dev        
+        - dev   
